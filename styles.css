@@ -1,0 +1,14 @@
+h1 {
+    
+}
+
+#container {
+    margin: auto;
+}
+
+.divs {
+    height: 2rem;
+    width: 2rem;
+    display: inline-block;
+    border: 1px solid black;
+}
