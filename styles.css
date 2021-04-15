@@ -1,9 +1,15 @@
+
 h1 {
-    
+    margin: 5rem;
 }
 
 #container {
-    margin: auto;
+    font-size: 0;
+    margin: 5rem;
+}
+
+.rows {
+    
 }
 
 .divs {
