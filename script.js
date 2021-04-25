@@ -26,15 +26,7 @@ let elem = document.getElementsByClassName("divs");
           elem[i].addEventListener("mouseover", function( event ) {
           // highlight the mouseover target
           event.target.style.backgroundColor = "orange";
-        
-          // reset the color after a short delay
-          setTimeout(function() {
-            event.target.style.backgroundColor = "white";
-          }, 1000);
         }, false);
-    
       } 
 
-
-alert(element.lenght)
 
