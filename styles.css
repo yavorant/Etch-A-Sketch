@@ -1,5 +1,6 @@
 * {
     background-color: lightgray;
+    text-align: center; 
 }
 
 h1 {
@@ -8,7 +9,7 @@ h1 {
 
 #container {
     font-size: 0;
-    margin: 5rem;
+    margin: 5rem;     
 }
 
 .rows {
